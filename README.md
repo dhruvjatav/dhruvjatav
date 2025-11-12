@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="banner.png" alt="Dhruv Kumar Jatav banner" width="100%">
-</p>
+
 
 
 <!-- 👋 Premium GitHub Portfolio Layout for Dhruv Kumar Jatav -->
