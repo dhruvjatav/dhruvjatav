@@ -17,7 +17,7 @@ Power BI • SQL • Python • Excel • DAX • Git
 
 ## 🔗 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Dhruv-kumar-jatav/)  
-[![Email](https://img.shields.io/badge/Email-dhruvjatav123%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:jatavdhruv89@gmail.com)
+[![Email](https://img.shields.io/badge/Email-jatavdhruv89%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:jatavdhruv89@gmail.com)
 
 ---
 
