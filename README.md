@@ -1,6 +1,6 @@
 <!-- 👋 Premium GitHub Portfolio Layout for Dhruv Kumar Jatav -->
 
-<img src="profile.png" width="140" align="left" style="border-radius:50%; margin-right:15px;" />
+
 
 # Dhruv Kumar Jatav  
 *ECE Final Year | Aspiring Data Analyst (Power BI • SQL • Python)*  
@@ -19,7 +19,7 @@
 > RFM (Recency, Frequency, Monetary) and CLV analysis to identify high-value customers  
 > and improve marketing decisions.
 
-![Dashboard Preview](dashboard_preview.png)
+
 
 📁 **Repository:** [Ecommerce_Customer_Segmentation](https://github.com/dhruvjatav/Ecommerce_Customer_Segmentation)
 
