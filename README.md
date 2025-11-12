@@ -1,5 +1,5 @@
 # Dhruv Kumar Jatav
-*ECE Graduate | Aspiring Data Analyst (Power BI • SQL • Python)*  
+*ECE Final year  | Aspiring Data Analyst (Power BI • SQL • Python)*  
 
 ---
 
