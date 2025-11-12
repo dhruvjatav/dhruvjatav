@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Dhruv Kumar Jatav Banner" width="100%">
+  <img src="banner.png" alt="Dhruv Kumar Jatav banner" width="100%">
 </p>
 
 
